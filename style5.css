@@ -1,0 +1,20 @@
+*{
+  
+    box-sizing: border-box;
+margin: 0px;
+padding: op;
+
+}
+
+#abc{
+    height: 100px;
+    width: 200px;
+    border: 2px brown solid;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+    outline-color: yellow;
+    outline-width: 10px;
+    outline-style: solid;
+    outline-offset: 5px;
+}
