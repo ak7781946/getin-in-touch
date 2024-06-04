@@ -1,0 +1,45 @@
+ th:visited
+{
+    color: aquamarine;
+}
+td:hover{
+
+    color: brown;
+} 
+ 
+ /* #abc{
+    list-style-type:upper-roman;
+    list-style-position:outside ;
+ }
+ #A{
+    background-color: green;
+ }
+ #B{
+    background-color: red;
+ }
+ #C{
+    background-color: bisque;
+ }
+ #D{
+    background-color:yellow;
+ }
+ #E{
+    background-color:blue;
+ } */
+#asd,th,td{
+   border: 1px solid;
+}
+table{
+   border-collapse: collapse;
+   width: 100%;
+   text-align: center;
+
+}
+th{
+   height: 50px;
+   vertical-align: bottom;
+}
+td{
+   height: 40px;
+   vertical-align: bottom;
+}
